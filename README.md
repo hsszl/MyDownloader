@@ -6,7 +6,6 @@ You can see that
 The first line is the url you want to download.<br>
 The second line is to create how many Thread to download the file. Don't too large or too little.<br>
 The last line is the name of the final file.<br>
-[video on Bilibili](https://www.bilibili.com/video/BV1TL4y1F7SZ "The video only show how to download a file use downloader.")<br>
 [exe file](https://wwz.lanzouy.com/i9IrY04j2ksj "Only use on windows password:ak47do")
 
 ## limit
